@@ -73,7 +73,7 @@
 3. [Aritméticos (+, -, *, /, ++)]()
 4. [Lógicos (&&, ||, !)]()
 5. [Condicional (? :)]()
-6. [Vírgula]
+6. [Vírgula]()
 7. [Relacionais (in, instanceof)]()
 8. [String (+)]()
 9. [Unários (delete, typeof)]()
