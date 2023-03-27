@@ -8,7 +8,7 @@
 2. [Cliente e servidor](./01-requirements/cliente-servidor.md)
 3. [Entender o que significa ser case-sensitive](./01-requirements/case-sensitive.md)
 
-> ### Importante Saber(Essentials)
+> ### Importante Saber (Essentials)
 1. [HTML](./02-essential/html.md)
 2. [CSS](./02-essential/css.md)
 3. [Unicode](./02-essential/unicode.md)
