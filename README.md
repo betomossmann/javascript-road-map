@@ -3,7 +3,7 @@
 
 ## Junior Developer JS
 
-> ### Pré-requisitos(Requirements)
+> ### Pré-requisitos (Requirements)
 1. [Lógica de programação](./01-requirements/logica-de-programa%C3%A7%C3%A3o.md)
 2. [Cliente e servidor](./01-requirements/cliente-servidor.md)
 3. [Entender o que significa ser case-sensitive](./01-requirements/case-sensitive.md)
@@ -13,21 +13,21 @@
 2. [CSS](./02-essential/css.md)
 3. [Unicode](./02-essential/unicode.md)
 
-> ### Como rodar um código JS(Run code on JS)
+> ### Como rodar um código JS (Run code on JS)
 1. [Console]()
 2. [Script tag]()
 3. [Link externo]()
 
-> ### Comentários(Comments)
+> ### Comentários (Comments)
 1. [Linha]()
 2. [Bloco]()
 
-> ### Variáveis(Variables)
+> ### Variáveis (Variables)
 1. [var, let, const]()
 2. [escopo]()
 3. [hoisting]()
 
-> ### Tipos(Types)
+> ### Tipos (Types)
 1. [null]()
 2. [Object]()
 3. [Function]()
@@ -36,18 +36,18 @@
 6. [Number]()
 7. [String]()
 
-> ### Conversão de tipos(Type Conversion)
+> ### Conversão de tipos (Type Conversion)
 1. [Explícita]()
 2. [Implícita]()
 
-> ### Literais(Literals)
+> ### Literais (Literals)
 1. [Arrays]()
 2. [Object]()
 3. [Boolean]()
 4. [Number]()
 5. [String]()
 
-> ### Estruturas de repetição(Repeating Structures)
+> ### Estruturas de repetição (Repeating Structures)
 1. [while]()
 2. [do while]()
 3. [for]()
@@ -56,18 +56,18 @@
 6. [break]()
 7. [continue]()
 
-> ### Declaração condicional(Conditional Statements)
+> ### Declaração condicional (Conditional Statements)
 1. [if else]()
 2. [switch]()
 3. [false]()
 4. [ == vs === ]()
 
-> ### Tratamento de erros(Error Handling)
+> ### Tratamento de erros (Error Handling)
 1. [try catch finally]()
 2. [throw]()
 3. [Error]()
 
-> ### Operadores(Operators)
+> ### Operadores (Operators)
 1. [Atribuição (=, +=, -=)]()
 2. [Comparação (==, ===, !=, !==, >, <)]()
 3. [Aritméticos (+, -, *, /, ++)]()
@@ -106,7 +106,7 @@
 9. [extends]()
 10. [get/set]()
 
-> ### Classes Importantes(Important Classes)
+> ### Classes Importantes (Important Classes)
 1. [Array (push, pop, join, concat, sort, slice, splice, map, filter, reduce)]()
 2. [Date (setDate, getDate, setDay, getDay, setMonth, getMonth)]()
 3. [String (charAt, indexOf, slice, split, trim, toLowerCase)]()
@@ -115,7 +115,7 @@
 
 ## Senior Developer JS
 
-> ### Programação Assíncrona(Asynchronous Programming)
+> ### Programação Assíncrona (Asynchronous Programming)
 1. [setTimeout]()
 2. [setInterval]()
 3. [callback]()
@@ -123,7 +123,7 @@
 5. [async await]()
 6. [Event Loop]()
 
-> ### Módulos(Nodules)
+> ### Módulos (Modules)
 1. [CJS]()
 2. [ESM]()
 3. [import]()
@@ -131,7 +131,7 @@
 5. [default export]()
 6. [named export]()
 
-> ### Próximos passos(Next Steps)
+> ### Próximos passos (Next Steps)
 1. [DOM]()
 2. [Storage]()
 3. [eslint]()
