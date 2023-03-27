@@ -1,30 +1,33 @@
-> # Junior Developer JS
+# Um simples guia JavaScript!
+# A simple JavaScript road map!
 
-> ## Pré-requisitos(Requirements)
+## Junior Developer JS
+
+> ### Pré-requisitos(Requirements)
 1. [Lógica de programação](./01-requirements/logica-de-programa%C3%A7%C3%A3o.md)
 2. [Cliente e servidor](./01-requirements/cliente-servidor.md)
 3. [Entender o que significa ser case-sensitive](./01-requirements/case-sensitive.md)
 
-> ## Importante Saber
+> ### Importante Saber
 1. [HTML](./02-essential/html.md)
 2. [CSS](./02-essential/css.md)
 3. [Unicode](./02-essential/unicode.md)
 
-> ## Como rodar um código JS
+> ### Como rodar um código JS
 1. [Console]()
 2. [Script tag]()
 3. [Link externo]()
 
-> ## Comentários
+> ### Comentários
 1. [Linha]()
 2. [Bloco]()
 
-> ## Variáveis
+> ### Variáveis
 1. [var, let, const]()
 2. [escopo]()
 3. [hoisting]()
 
-> ## Tipos
+> ### Tipos
 1. [null]()
 2. [Object]()
 3. [Function]()
