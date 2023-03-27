@@ -1,4 +1,4 @@
-[ pt-BR ]
+## [ pt-BR ]
 
 Lógica de programação é uma habilidade fundamental para qualquer programador, independentemente da linguagem de programação que esteja sendo usada. A lógica de programação trata da capacidade de se organizar e estruturar algoritmos de forma coerente e sequencial, segue algumas coisas importantes que você precisa saber sobre lógica de programação:
 
@@ -17,7 +17,7 @@ Lógica de programação é uma habilidade fundamental para qualquer programador
 Em resumo, a lógica de programação é uma habilidade fundamental para qualquer programador e envolve a compreensão de estruturas de controle de fluxo, modularização, abstração, boas práticas de programação, depuração de código e pensamento lógico.
 
 
-[ en ]
+## [ en ]
 
 Programming logic is a fundamental skill for any programmer, regardless of the programming language being used. Programming logic deals with the ability to organize and structure algorithms in a coherent and sequential manner, here some important things you need to know about programming logic:
 

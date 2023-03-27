@@ -1,4 +1,4 @@
-[ pt-BR ]
+## [ pt-BR ]
 
 traduzir para o inglês americano:
 
@@ -23,7 +23,7 @@ Alguns dos conceitos mais importantes em CSS são:
 CSS é uma linguagem muito poderosa e versátil que permite criar uma ampla variedade de designs para a web. Com o tempo, CSS evoluiu e agora há muitos recursos avançados, como variáveis CSS, grade CSS, seletores avançados, pseudo-classes, pseudo-elementos e muito mais.
 
 
-[ en ]
+## [ en ]
 
 CSS (Cascading Style Sheets) is a style language used to define the presentation and layout of HTML and XML documents on the web. CSS works with selectors, properties, and values to apply styles to HTML elements.
 

@@ -1,4 +1,4 @@
-[ pt-BR ]
+## [ pt-BR ]
 
 Em programação, ser case-sensitive significa que as letras maiúsculas e minúsculas são distintas e são tratadas como caracteres diferentes. Isso significa que se você escrever uma palavra em maiúsculas ou minúsculas diferentes, o computador irá tratá-las como duas palavras diferentes.
 
@@ -9,7 +9,7 @@ Da mesma forma, se você definir uma variável como "minhaVariavel" e tentar ace
 É importante estar ciente da sensibilidade a maiúsculas e minúsculas ao escrever código em JavaScript, para evitar erros de digitação e erros de sintaxe.
 
 
-[ en ]
+## [ en ]
 
 In programming, being case-sensitive means that uppercase and lowercase letters are distinct and treated as different characters. This means that if you write a word with different capitalization, the computer will treat them as two different words.
 

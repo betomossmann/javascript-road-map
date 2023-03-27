@@ -1,4 +1,4 @@
-[ pt-BR ]
+## [ pt-BR ]
 
 Unicode é um sistema de codificação de caracteres que permite representar e manipular textos em diferentes idiomas e scripts (conjuntos de caracteres). Ele foi desenvolvido para superar as limitações de outros sistemas de codificação, como o ASCII, que só suportava caracteres em inglês e um conjunto limitado de símbolos.
 
@@ -11,7 +11,7 @@ O Unicode é amplamente utilizado em sistemas operacionais, aplicativos e págin
 Porém, é importante notar que o uso do Unicode pode apresentar desafios, como o suporte para diferentes fontes, a compatibilidade com sistemas legados e a garantia da segurança ao manipular texto em diferentes idiomas e scripts.
 
 
-[ en ]
+## [ en ]
 
 Unicode is a character encoding system that allows for the representation and manipulation of text in different languages and scripts (sets of characters). It was developed to overcome the limitations of other encoding systems, such as ASCII, which only supported characters in English and a limited set of symbols.
 

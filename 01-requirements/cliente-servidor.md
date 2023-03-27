@@ -1,4 +1,4 @@
-[ pt-BR ]
+## [ pt-BR ]
 
 Em programação JavaScript, a comunicação entre cliente e servidor é uma parte essencial da criação de aplicativos e websites dinâmicos. Aqui estão algumas informações importantes sobre o papel de cliente e servidor na programação em JavaScript:
 
@@ -13,7 +13,7 @@ Em programação JavaScript, a comunicação entre cliente e servidor é uma par
 * Segurança: A segurança é uma consideração importante ao trabalhar com comunicação cliente-servidor em JavaScript. Os desenvolvedores devem tomar medidas para proteger seus aplicativos contra ataques de injeção de SQL, cross-site scripting (XSS) e outros tipos de vulnerabilidades. Isso pode incluir a validação de entrada do usuário e o uso de tokens de autenticação para proteger endpoints de API sensíveis.
 
 
-[ en ]
+## [ en ]
 
 In JavaScript programming, the communication between client and server is an essential part of creating dynamic applications and websites. Here are some important things to know about the role of client and server in JavaScript programming:
 

@@ -1,4 +1,4 @@
-[ pt-BR ]
+## [ pt-BR ]
 
 HTML (Hypertext Markup Language) é uma linguagem de marcação que é usada para criar páginas da web. Ele é composto por tags que indicam ao navegador como exibir o conteúdo de uma página da web. As tags são cercadas por colchetes angulares (<>), e podem ter atributos que fornecem informações adicionais sobre a tag.
 
@@ -16,7 +16,7 @@ Algumas das tags mais comuns usadas em HTML incluem:
 Além dessas tags básicas, existem muitas outras tags em HTML que podem ser usadas para criar uma ampla variedade de elementos na página. O HTML também pode ser estilizado usando folhas de estilo CSS e tornar as páginas interativas usando JavaScript.
 
 
-[ en ]
+## [ en ]
 
 HTML (Hypertext Markup Language) is a markup language used to create web pages. It is composed of tags that instruct the browser on how to display the content of a web page. The tags are surrounded by angular brackets (<>), and may have attributes that provide additional information about the tag.
 

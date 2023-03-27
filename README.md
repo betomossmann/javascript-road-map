@@ -1,5 +1,5 @@
-# Um simples guia JavaScript!
-# A simple JavaScript road map!
+# Um simples guia JavaScript! (A simple JavaScript road map!)
+
 
 ## Junior Developer JS
 
@@ -36,18 +36,18 @@
 6. [Number]()
 7. [String]()
 
-> ## Conversão de tipos
+> ### Conversão de tipos
 1. [Explícita]()
 2. [Implícita]()
 
-> ## Literais
+> ### Literais
 1. [Arrays]()
 2. [Object]()
 3. [Boolean]()
 4. [Number]()
 5. [String]()
 
-> ## Estruturas de repetição
+> ### Estruturas de repetição
 1. [while]()
 2. [do while]()
 3. [for]()
@@ -56,18 +56,18 @@
 6. [break]()
 7. [continue]()
 
-> ## Declaração condicional
+> ### Declaração condicional
 1. [if else]()
 2. [switch]()
 3. [false]()
 4. [ == vs === ]()
 
-> ## Tratamento de erros
+> ### Tratamento de erros
 1. [try catch finally]()
 2. [throw]()
 3. [Error]()
 
-> ## Operadores
+> ### Operadores
 1. [Atribuição (=, +=, -=)]()
 2. [Comparação (==, ===, !=, !==, >, <)]()
 3. [Aritméticos (+, -, *, /, ++)]()
@@ -81,7 +81,7 @@
 11. [Procedência de operadores]()
 12. [Tabela verdade]()
 
-> ## Functions
+> ### Functions
 1. [Declaração]()
 2. [Funções Anônimas]()
 3. [Chamar]()
@@ -94,7 +94,7 @@
 10. [Arrow Functions]()
 11. [Spread Operator]()
 
-> ## Classes
+> ### Classes
 1. [this]()
 2. [Prototype]()
 3. [Desestruturação de objetos]()
@@ -106,16 +106,16 @@
 9. [extends]()
 10. [get/set]()
 
-> ## Classes Importantes
+> ### Classes Importantes
 1. [Array (push, pop, join, concat, sort, slice, splice, map, filter, reduce)]()
 2. [Date (setDate, getDate, setDay, getDay, setMonth, getMonth)]()
 3. [String (charAt, indexOf, slice, split, trim, toLowerCase)]()
 5. [Intl (formatar datas, números)]()
-6. [RegExp (buscas avançadas em strings)]() **DEIXE PARA O FINAL
+6. [RegExp (buscas avançadas em strings)]() 
 
-> # Senior Developer JS
+## Senior Developer JS
 
-> ## Programação Assíncrona
+> ### Programação Assíncrona
 1. [setTimeout]()
 2. [setInterval]()
 3. [callback]()
@@ -123,7 +123,7 @@
 5. [async await]()
 6. [Event Loop]()
 
-> ## Módulos
+> ### Módulos
 1. [CJS]()
 2. [ESM]()
 3. [import]()
@@ -131,7 +131,7 @@
 5. [default export]()
 6. [named export]()
 
-> ## Próximos passos
+> ### Próximos passos
 1. [DOM]()
 2. [Storage]()
 3. [eslint]()
