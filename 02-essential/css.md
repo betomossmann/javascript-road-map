@@ -1,7 +1,5 @@
 ## [ pt-BR ]
 
-traduzir para o inglês americano:
-
 CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada para definir a apresentação e o layout de documentos HTML e XML na web. CSS trabalha com seletores, propriedades e valores para aplicar estilos aos elementos HTML.
 
 Alguns dos conceitos mais importantes em CSS são:
